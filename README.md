@@ -16,7 +16,7 @@ Dynamics NAV and Business Central developer building open source projects around
 - [job-queue-params-bc](https://github.com/addmecode/job-queue-params-bc) - BC extension that adds parameters to job queue entry run. It extends the standard Parameter String solution with more user friendly configuration.
 - [ui-translations-bc](https://github.com/addmecode/ui-translations-bc) - BC extension that allows to import xlf file to Business Central, select a target language, make translation and export xlf with translated elements
 - [dynamic-req-page](https://github.com/addmecode/dynamic-req-page) - BC framework - One page for most of the user input data
-- [ai-config](https://github.com/addmecode/ai-config) - Powershell scripts for managing model-agnostic AI configs
+- [ai-config](https://github.com/addmecode/ai-config) - Collection of AI skills for AL dev and powershell scripts for managing model-agnostic AI configs
 
 ## Links
 
