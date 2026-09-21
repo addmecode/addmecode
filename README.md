@@ -13,6 +13,7 @@ Dynamics NAV and Business Central developer building open source projects around
 ## Selected projects
 
 - [integration-monitor](https://github.com/addmecode/integration-monitor) - BC integration framework — persistent outbox/inbox queues, retry logic, auth profiles, and monitoring pages
+- [vendor-collaboration-hub](https://github.com/addmecode/vendor-collaboration-hub) - BC extension that enables you to collaborate with a vednor on purchase orders via a website hosted on Azure
 - [job-queue-params-bc](https://github.com/addmecode/job-queue-params-bc) - BC extension that adds parameters to job queue entry run. It extends the standard Parameter String solution with more user friendly configuration.
 - [ui-translations-bc](https://github.com/addmecode/ui-translations-bc) - BC extension that allows to import xlf file to Business Central, select a target language, make translation and export xlf with translated elements
 - [dynamic-req-page](https://github.com/addmecode/dynamic-req-page) - BC framework - One page for most of the user input data
